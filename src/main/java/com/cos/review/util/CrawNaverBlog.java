@@ -14,6 +14,7 @@ import lombok.Data;
 @Data
 public class CrawNaverBlog {
 
+	//스프링 스케줄!!
 	public List<Product> startDayCraw(String keyword){
 		return null;
 	}
